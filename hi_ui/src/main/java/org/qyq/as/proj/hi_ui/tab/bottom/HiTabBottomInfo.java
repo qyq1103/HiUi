@@ -17,6 +17,9 @@ public class HiTabBottomInfo<Color> {
         ICON
     }
 
+    /**
+     * 持有fragment的class,动态创建fragment实例
+     */
     public Class<? extends Fragment> fragment;
     public String name;
     /**

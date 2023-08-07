@@ -25,6 +25,7 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity android:name="org.qyq.as.proj.hiui.demo.tab.HiTabBottomDemoActivity" />
     </application>
 
 </manifest>
